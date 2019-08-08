@@ -8,9 +8,7 @@
 
 ## Setup
 
-```sh
-
-cd FSD/lab04_java8
+```
 mvn clean package
 java -cp ./target/*.jar com.iiht.fsd04.SalaryPredictor
 ```
